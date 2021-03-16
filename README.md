@@ -8,3 +8,4 @@ https://www.bestprog.net/ru/2016/07/10/001-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-
 https://info-comp.ru/obucheniest/715-create-database-in-ms-sql-server.html
 https://www.youtube.com/watch?v=dX5kmjaJNck
 https://www.youtube.com/watch?v=qndDTydhD2w
+https://metanit.com/sharp/helpdeskmvc/1.1.php
