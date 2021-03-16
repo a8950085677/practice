@@ -9,3 +9,4 @@ https://info-comp.ru/obucheniest/715-create-database-in-ms-sql-server.html
 https://www.youtube.com/watch?v=dX5kmjaJNck
 https://www.youtube.com/watch?v=qndDTydhD2w
 https://metanit.com/sharp/helpdeskmvc/1.1.php
+https://it-black.ru/rabota-s-bazoj-dannyh-v-ci_sharp/
