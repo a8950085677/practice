@@ -10,3 +10,12 @@ https://www.youtube.com/watch?v=dX5kmjaJNck
 https://www.youtube.com/watch?v=qndDTydhD2w
 https://metanit.com/sharp/helpdeskmvc/1.1.php
 https://it-black.ru/rabota-s-bazoj-dannyh-v-ci_sharp/
+https://urait.ru/book/obektno-orientirovannyy-analiz-i-programmirovanie-na-visual-basic-2013-471260
+https://urait.ru/viewer/obektno-orientirovannyy-analiz-i-programmirovanie-na-visual-basic-2013-471260#page/260
+https://urait.ru/viewer/obektno-orientirovannyy-analiz-i-programmirovanie-na-visual-basic-2013-471260#page/267
+https://urait.ru/viewer/obektno-orientirovannyy-analiz-i-programmirovanie-na-visual-basic-2013-471260#page/276
+https://urait.ru/viewer/obektno-orientirovannyy-analiz-i-programmirovanie-na-visual-basic-2013-471260#page/279
+https://it-black.ru/rabota-s-bazoj-dannyh-v-ci_sharp/
+https://metanit.com/sql/sqlserver/1.4.php
+https://www.osp.ru/winitpro/2016/12/13051089
+https://winitpro.ru/index.php/2020/02/07/bezopasnost-sql-server/
