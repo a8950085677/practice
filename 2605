@@ -2,3 +2,5 @@
 Прозрачное шифрование данных
 Открытие конкретных портов брандмауэра, чтобы предоставить доступ к SQL Server
 Настройка поддержки расширенной защиты для проверки подлинности с помощью привязки каналов и привязки служб
+https://docs.rkeeper.ru/crm/ru/ustanovka-i-obnovlenie-crm/nastrojka-brandmauera-dlya-raboty-ms-sql/
+https://tavalik.ru/nastrojka-firewall-windows-dlya-imenovannogo-ekzemplyara-ms-sql-server/
